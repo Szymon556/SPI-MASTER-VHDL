@@ -16,3 +16,6 @@ The project was developed with a focus on clean RTL structure, synthesizability,
 ### TODO
 - Currently implemented SPI mode: Mode 0 (CPOL=0, CPHA=0)
 - Additional SPI modes (1–3) can be added with minor extensions to the control FSM and clock generation logic
+
+  
+The current implementation focuses on a clean and extendable architecture rather than full feature coverage.
